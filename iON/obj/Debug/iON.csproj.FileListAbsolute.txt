@@ -1,0 +1,15 @@
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\iON.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\iON.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Core.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Hardware.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.System.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Common.Extensions.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Core.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Hardware.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.System.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\bin\Debug\Cosmos.Common.Extensions.pdb
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\obj\Debug\iON.csprojResolveAssemblyReference.cache
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\obj\Debug\iON.dll
+c:\users\shantam\documents\visual studio 2013\Projects\iON\iON\obj\Debug\iON.pdb
